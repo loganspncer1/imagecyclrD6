@@ -5,13 +5,11 @@ A plugin for the Fifine D6 Stream Dock that allows you to personalize a button t
 Features
 
 * **Multi-State Icons:** Toggle between 2 or 3 different images on a single click.
-* Flashing Mode: Convert buttons into animated alerts with adjustable speeds.
+* **Flashing Mode:** Convert buttons into animated images with adjustable speeds.
 * **Built-in Editor:** Crop, pan, and zoom images directly within the plugin to fit the D6 keys.
-* **Pro Hotkeys:**
-* Record complex key combinations.
+* **Record complex key combinations.**
 * **Hold Support:** Specify keys to be held down for a certain duration in ms.
 * **Trigger Control:** Fire hotkeys once on start or continuously with every cycle.
-
 * **State Management:** Ability to automatically reset to the default icon once flashing has stopped.
 
 Installation
