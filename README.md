@@ -2,6 +2,8 @@
 
 A plugin for the Fifine D6 Stream Dock that allows you to personalize a button that changes images when clicked. You can change among multiple icons or blink them, while with one click you can also trigger hotkeys. It features an integrated image editor that will allow you to crop and zoom your icons to perfection.
 
+i made this just to satisfy my need for flashing turn signals and buttons that can turn on and off for sim racing
+
 Features
 
 * **Multi-State Icons:** Toggle between 2 or 3 different images on a single click.
